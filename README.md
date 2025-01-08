@@ -80,17 +80,18 @@
         <h2>Exemplo de uso</h2>
         <h3>Entrada:</h3>
         <pre>
+
 Qual é o seu nome? João
 Quantos anos você tem? 25
 Qual o seu peso? 70
 Qual a sua altura? 1.75
-        </pre>
-        <h3>Saída:</h3>
-        <pre>
+</pre>
+<h3>Saída:</h3>
+<pre>
 Olá João! Você tem 25 anos, pesa 70kg e tem 1.75 de altura.
 Você é maior de idade.
 Classificação: Peso normal
-        </pre>
+</pre>
 
         <h2>Melhorias futuras</h2>
         <ul>
@@ -108,5 +109,6 @@ Classificação: Peso normal
             Desenvolvido por Douglas | Projeto de estudos em C++
         </footer>
     </div>
+
 </body>
 </html>
