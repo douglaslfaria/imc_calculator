@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido para:
 **3. Insira os dados solicitados (nome, idade, peso e altura) e veja a classificação do IMC.**
 
 
-**🔖 Exemplo de Uso**
+## 🔖 Exemplo de Uso
 
 Entrada:
 ```bash
