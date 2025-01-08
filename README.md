@@ -38,13 +38,13 @@ Esse projeto foi desenvolvido para:
 **1. Compile o programa com um compilador C++11 ou superior:**
    
   ```bash
-    g++ -o calculadora_imc calculadora_imc.cpp
+    g++ -o imc_calculator imc_calculator.cpp
   ```
 **2. Execute o programa no terminal:**
 
   ```bash
 
-    ./calculadora_imc
+    ./imc_calculator
   ```
 
 **3. Insira os dados solicitados (nome, idade, peso e altura) e veja a classificação do IMC.**
